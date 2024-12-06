@@ -55,9 +55,9 @@ body {
 .team-member {
     background-color: #50C878;
     border: 1px solid #ccc;
-    border-radius: 8px;
-    width: 300px;
-    margin: 10px;
+    border-radius: 5px;
+    width: 500px;
+    margin: 6px;
     text-align: center;
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
