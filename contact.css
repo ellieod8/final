@@ -97,13 +97,13 @@ body {
 }
 
 .footer img {
-    width: 40px;
-    height: auto;
+    width: 890px;
+    height: 100;
     margin-right: 6px;
     vertical-align: middle;
 }
 
 .footer p {
-    margin: 5px 0;
+    margin: 10px 0;
     font-size: 0.9em;
 }
